@@ -17,7 +17,6 @@ marketing home page
 
 ## Engineering Tasks:
 
-- > static code analysis (Lint)
 - continuous integration
 - server-side testing
 - client-side testing
