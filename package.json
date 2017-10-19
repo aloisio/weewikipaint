@@ -1,0 +1,11 @@
+{
+  "name": "weewikipaint",
+  "version": "1.0.0",
+  "engines": {
+    "node": "8.7.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jake": "^8.0.15"
+  }
+}
