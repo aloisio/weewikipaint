@@ -2,8 +2,8 @@
 
 ## Minimum Marketing Features:
 
-marketing home page
-- > collaborative painting page (very basic)
+- > marketing home page
+- collaborative painting page (very basic)
 - wiki-fy the pages
 - more complex painting?
 - more collaborative features?
@@ -17,6 +17,6 @@ marketing home page
 
 ## Engineering Tasks:
 
-- continuous integration
+- > continuous integration
 - server-side testing
 - client-side testing
