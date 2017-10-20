@@ -17,6 +17,5 @@
 
 ## Engineering Tasks:
 
-- > continuous integration
-- server-side testing
+- > server-side testing
 - client-side testing

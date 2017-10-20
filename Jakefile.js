@@ -18,6 +18,12 @@
         }
     });
 
+    desc('Test everything');
+    task('test', [], function () {
+        var reporter = require('nodeunit').reporters.minimal;
+        reporter.run(['src/server']);
+    });
+
     desc("Integrate");
     task("integrate", ["default"], function () {
         console.log("1. Make sure 'git status' is clean.");

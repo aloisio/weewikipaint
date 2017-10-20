@@ -7,6 +7,7 @@
   "dependencies": {},
   "devDependencies": {
     "jake": "^8.0.15",
-    "jshint": "^2.9.5"
+    "jshint": "^2.9.5",
+    "nodeunit": "^0.11.1"
   }
 }
